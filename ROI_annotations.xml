@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>686764</id>
+      <size>147</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-04-07 06:47:14.402148+00:00</created>
+      <updated>2024-04-07 07:39:33.796241+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>146</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>688226</id>
+          <start>0</start>
+          <stop>146</stop>
+          <url>https://app.cvat.ai/api/jobs/686764</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>threa3d</username>
+        <email>warofparish16@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>chair</name>
+          <color>#ff007c</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2024-04-07 08:18:40.846915+00:00</dumped>
+  </meta>
+  <image id="3" name="scene00331.jpg" width="1280" height="720">
+    <box label="chair" source="Ground truth" occluded="0" xtl="836.77" ytl="245.75" xbr="914.38" ybr="345.84" z_order="0">
+    </box>
+    <box label="chair" source="Ground truth" occluded="0" xtl="903.15" ytl="583.80" xbr="1052.25" ybr="711.46" z_order="0">
+    </box>
+    <box label="chair" source="Ground truth" occluded="0" xtl="939.92" ytl="431.62" xbr="1101.28" ybr="554.18" z_order="0">
+    </box>
+    <box label="chair" source="Ground truth" occluded="0" xtl="962.38" ytl="327.46" xbr="1107.40" ybr="428.56" z_order="0">
+    </box>
+    <box label="chair" source="Ground truth" occluded="0" xtl="998.13" ytl="203.88" xbr="1085.96" ybr="279.46" z_order="0">
+    </box>
+    <box label="chair" source="Ground truth" occluded="0" xtl="982.81" ytl="267.20" xbr="1095.15" ybr="335.62" z_order="0">
+    </box>
+    <box label="chair" source="manual" occluded="0" xtl="470.49" ytl="345.46" xbr="551.43" ybr="487.58" z_order="0">
+    </box>
+    <box label="chair" source="manual" occluded="0" xtl="534.31" ytl="306.69" xbr="609.37" ybr="453.56" z_order="0">
+    </box>
+    <box label="chair" source="manual" occluded="0" xtl="585.31" ytl="270.51" xbr="660.25" ybr="405.12" z_order="0">
+    </box>
+    <box label="chair" source="manual" occluded="0" xtl="633.05" ytl="248.61" xbr="712.65" ybr="371.97" z_order="0">
+    </box>
+    <box label="chair" source="manual" occluded="0" xtl="200.24" ytl="486.34" xbr="302.56" ybr="653.31" z_order="0">
+    </box>
+    <box label="chair" source="manual" occluded="0" xtl="113.76" ytl="551.83" xbr="215.00" ybr="708.73" z_order="0">
+    </box>
+    <box label="chair" source="manual" occluded="0" xtl="18.72" ytl="452.05" xbr="157.62" ybr="588.90" rotation="333.30" z_order="0">
+    </box>
+    <box label="chair" source="manual" occluded="0" xtl="145.21" ytl="386.97" xbr="284.64" ybr="526.36" rotation="333.20" z_order="0">
+    </box>
+    <box label="chair" source="manual" occluded="0" xtl="744.90" ytl="377.98" xbr="829.67" ybr="510.75" z_order="0">
+    </box>
+    <box label="chair" source="manual" occluded="0" xtl="808.90" ytl="286.10" xbr="884.00" ybr="409.16" z_order="0">
+    </box>
+    <box label="chair" source="manual" occluded="0" xtl="346.85" ytl="304.78" xbr="426.35" ybr="423.92" z_order="0">
+    </box>
+    <box label="chair" source="manual" occluded="0" xtl="434.22" ytl="247.40" xbr="489.56" ybr="322.60" z_order="0">
+    </box>
+    <box label="chair" source="manual" occluded="0" xtl="675.51" ytl="509.76" xbr="772.92" ybr="691.55" z_order="0">
+    </box>
+    <box label="chair" source="manual" occluded="0" xtl="864.70" ytl="180.49" xbr="923.93" ybr="262.04" z_order="0">
+    </box>
+    <box label="chair" source="manual" occluded="0" xtl="489.18" ytl="218.76" xbr="533.54" ybr="291.08" z_order="0">
+    </box>
+    <box label="chair" source="manual" occluded="0" xtl="532.28" ytl="192.58" xbr="587.30" ybr="263.57" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="scene00451.jpg" width="1280" height="720">
+  </image>
+  <image id="11" name="scene00571.jpg" width="1280" height="720">
+  </image>
+  <image id="16" name="scene00721.jpg" width="1280" height="720">
+  </image>
+  <image id="35" name="scene01291.jpg" width="1280" height="720">
+    <box label="chair" source="manual" occluded="0" xtl="626.78" ytl="208.70" xbr="680.40" ybr="360.39" z_order="0">
+    </box>
+    <box label="chair" source="manual" occluded="0" xtl="717.21" ytl="326.32" xbr="832.45" ybr="467.28" z_order="0">
+    </box>
+    <box label="chair" source="manual" occluded="0" xtl="811.10" ytl="288.20" xbr="888.80" ybr="419.17" z_order="0">
+    </box>
+    <box label="chair" source="manual" occluded="0" xtl="841.05" ytl="236.60" xbr="928.20" ybr="347.88" z_order="0">
+    </box>
+    <box label="chair" source="manual" occluded="0" xtl="818.27" ytl="188.30" xbr="894.40" ybr="297.32" z_order="0">
+    </box>
+    <box label="chair" source="manual" occluded="0" xtl="340.42" ytl="288.80" xbr="434.38" ybr="441.84" z_order="0">
+    </box>
+    <box label="chair" source="manual" occluded="0" xtl="899.28" ytl="537.75" xbr="1107.90" ybr="715.45" z_order="0">
+    </box>
+    <box label="chair" source="manual" occluded="0" xtl="950.18" ytl="322.60" xbr="1105.61" ybr="440.24" z_order="0">
+    </box>
+    <box label="chair" source="manual" occluded="0" xtl="975.54" ytl="194.40" xbr="1097.94" ybr="263.00" z_order="0">
+    </box>
+    <box label="chair" source="manual" occluded="0" xtl="929.40" ytl="439.60" xbr="1103.77" ybr="541.03" z_order="0">
+    </box>
+    <box label="chair" source="Ground truth" occluded="0" xtl="977.14" ytl="244.01" xbr="1096.47" ybr="318.93" z_order="0">
+    </box>
+    <box label="chair" source="manual" occluded="0" xtl="433.36" ytl="245.10" xbr="487.80" ybr="325.30" z_order="0">
+    </box>
+    <box label="chair" source="manual" occluded="0" xtl="521.44" ytl="176.60" xbr="577.50" ybr="254.10" z_order="0">
+    </box>
+    <box label="chair" source="manual" occluded="0" xtl="479.90" ytl="208.24" xbr="529.00" ybr="287.77" z_order="0">
+    </box>
+    <box label="chair" source="manual" occluded="0" xtl="638.53" ytl="425.80" xbr="753.98" ybr="639.44" z_order="0">
+    </box>
+    <box label="chair" source="manual" occluded="0" xtl="211.67" ytl="463.50" xbr="339.32" ybr="674.29" z_order="0">
+    </box>
+    <box label="chair" source="manual" occluded="0" xtl="16.08" ytl="411.24" xbr="153.55" ybr="570.27" rotation="332.40" z_order="0">
+    </box>
+    <box label="chair" source="manual" occluded="0" xtl="143.78" ytl="346.59" xbr="281.25" ybr="503.04" rotation="332.40" z_order="0">
+    </box>
+    <box label="chair" source="manual" occluded="0" xtl="97.32" ytl="511.40" xbr="213.90" ybr="720.00" z_order="0">
+    </box>
+    <box label="chair" source="manual" occluded="0" xtl="450.96" ytl="331.70" xbr="523.36" ybr="496.25" z_order="0">
+    </box>
+    <box label="chair" source="manual" occluded="0" xtl="522.77" ytl="288.60" xbr="586.62" ybr="454.94" z_order="0">
+    </box>
+    <box label="chair" source="manual" occluded="0" xtl="582.76" ytl="255.10" xbr="645.13" ybr="413.67" z_order="0">
+    </box>
+  </image>
+  <image id="38" name="scene01381.jpg" width="1280" height="720">
+  </image>
+  <image id="39" name="scene01411.jpg" width="1280" height="720">
+  </image>
+  <image id="40" name="scene01441.jpg" width="1280" height="720">
+  </image>
+  <image id="43" name="scene01531.jpg" width="1280" height="720">
+  </image>
+  <image id="47" name="scene01651.jpg" width="1280" height="720">
+  </image>
+  <image id="48" name="scene01681.jpg" width="1280" height="720">
+  </image>
+  <image id="49" name="scene01711.jpg" width="1280" height="720">
+  </image>
+  <image id="53" name="scene01831.jpg" width="1280" height="720">
+  </image>
+  <image id="56" name="scene01921.jpg" width="1280" height="720">
+  </image>
+  <image id="60" name="scene02041.jpg" width="1280" height="720">
+  </image>
+  <image id="61" name="scene02071.jpg" width="1280" height="720">
+  </image>
+  <image id="83" name="scene02731.jpg" width="1280" height="720">
+  </image>
+  <image id="99" name="scene03211.jpg" width="1280" height="720">
+  </image>
+  <image id="100" name="scene03241.jpg" width="1280" height="720">
+  </image>
+  <image id="102" name="scene03301.jpg" width="1280" height="720">
+  </image>
+  <image id="103" name="scene03331.jpg" width="1280" height="720">
+  </image>
+  <image id="116" name="scene03721.jpg" width="1280" height="720">
+  </image>
+  <image id="118" name="scene03781.jpg" width="1280" height="720">
+  </image>
+  <image id="120" name="scene03841.jpg" width="1280" height="720">
+  </image>
+  <image id="129" name="scene04111.jpg" width="1280" height="720">
+  </image>
+  <image id="131" name="scene04171.jpg" width="1280" height="720">
+  </image>
+  <image id="133" name="scene04231.jpg" width="1280" height="720">
+  </image>
+  <image id="135" name="scene04291.jpg" width="1280" height="720">
+  </image>
+  <image id="137" name="scene04351.jpg" width="1280" height="720">
+  </image>
+</annotations>
